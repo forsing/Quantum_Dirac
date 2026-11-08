@@ -89,9 +89,9 @@ np.random.seed(39)
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_2980.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_plus_1736.csv"),
+    Path("/data/loto7_4716_k89.csv"),
+    Path("/data/loto7_4716_k89_loto_2980.csv"),
+    Path("/data/loto7_4716_k89_loto_plus_1736.csv"),
 )
 
 N = 39
@@ -2877,11 +2877,11 @@ POREDJENJE NEZAVISNIH REZULTATA
 
 ========================================================================
 
-loto7_4716_k89.csv NEXT: 19 21 22 23 24 25 38
+loto7_4716_k89.csv NEXT: 19 x 22 y 24 z 38
 
-loto7_4716_k89_loto_2980.csv NEXT: 1 2 12 27 37 38 39
+loto7_4716_k89_loto_2980.csv NEXT: 1 x 12 y 37 z 39
 
-loto7_4716_k89_loto_plus_1736.csv NEXT: 2 4 10 11 26 36 38
+loto7_4716_k89_loto_plus_1736.csv NEXT: 2 x 10 y 26 z 38
 """
 
 
